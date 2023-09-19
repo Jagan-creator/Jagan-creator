@@ -9,7 +9,7 @@ As an ambitious junior full-stack developer, I am dedicated to continuously expa
 
 * 🌍  I am based in Calgary, AB
 * 🖥️  See my portfolio here - [portfolio link](https://jagan-creator.vercel.app/)
-* 📑  My resume for your viewing - [resume link](https://resume.creddle.io/resume/5wh3kh8ktcc)
+* 📄  My resume for your viewing - [resume link](https://resume.creddle.io/resume/5wh3kh8ktcc)
 * 👨🏻‍💻  You can contact me at [joel.hagan.8@gmail.com](mailto:joel.hagan.8@gmail.com)
 * 🤝  I am open to collaborating on creative projects
 
