@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ------------------------
 
-As an ambitious junior full-stack developer, I am dedicated to continuously expanding my skill set and keeping pace with the latest technologies. Proficient in JavaScript, React, PostgreSQL, Node, Express, Ruby, HTML, and CSS, I possess a solid foundation in both front-end and back-end development. With a background in marketing and a strong emphasis on user experience, I approach projects with a creative mindset, striving to create intuitive and visually appealing web applications. With adaptability, attention to detail, and a commitment to continuous learning, my goal is to deliver high-quality solutions that surpass expectations.
+As an ambitious full-stack web developer, I am dedicated to continuously expanding my skill set and keeping pace with the latest technologies. Well versed in JavaScript, React, PostgreSQL, Prisma, Node, Express, Ruby, HTML, and CSS, I possess a solid foundation in both front-end and back-end development. With a background in SEO marketing and a strong emphasis on user experience, I approach projects with a creative mindset, striving to create intuitive and visually appealing web applications. With adaptability, attention to detail, and a commitment to continuous learning, my goal is to deliver high-quality solutions that surpass expectations.
 
 * 🌍  I am based in Calgary, AB
 * 🖥️  See my portfolio here - [portfolio link](https://jagan-creator.vercel.app/)
